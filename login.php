@@ -81,13 +81,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
             <button type="submit">Masuk</button>
         </form>
-
-        <div class="demo-accounts">
-            <strong>Akun demo (setelah menjalankan seed.php):</strong><br>
-            Admin&nbsp;&nbsp;&nbsp;: admin / admin123<br>
-            Petugas : petugas1 / petugas123<br>
-            Peminjam: budi / peminjam123
-        </div>
     </div>
 </div>
 </body>
